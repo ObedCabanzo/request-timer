@@ -1,7 +1,6 @@
 #https://ventura-backend-jaj1.onrender.com/health-check/
 
 import requests
-import time
 
 url = 'https://ventura-backend-jaj1.onrender.com/health-check/'  # Reemplaza esto con la URL de tu servidor y ruta específica
 try:
